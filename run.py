@@ -147,7 +147,7 @@ def main():
 
           print(f"Account.......{search_account.account_name} has been deleted.")
         else:
-          print("Action Aborted!")
+          print("Action Failed!")
 
     elif option == "lo":
       print("Logging out .......")
