@@ -76,12 +76,5 @@ class TestAccounts(unittest.TestCase):
 
         self.assertTrue(account_exists)
 
-
-
-
-
-
-
-
 if __name__ == '__main__':
     unittest.main()
