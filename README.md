@@ -9,6 +9,15 @@
   * Open the folder in a text editor of preference
   * Open the terminal in the text editor and run the application
 
+## BEHAVIOUR DRIVEN DEVELOPMENT
+| Behaviour  | Input |  Output
+| :_ _ _ _ _ | : _ _ | _ _ _ _ _ |
+| Users creates new account  | ca  | Prompted to enter the account details  |
+| User adds an existing account credentials | ac | Prompted to fill account-name, username and password |
+| User views all accounts currently saved | da | List of present accounts saved displayed |
+| User can delete accounts from the list | dl | Promped to enter account-name: matched account details are deleted |
+| User is logged out of the application | lo | terminates the application | 
+
 ## TECHNOLOGIES USED
  * PYTHON
 
